@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="Logo" width="100" height="100">
+<img src="logo.png" alt="Logo" width="100" height="100">
 
 # MP3 Clustering
 
