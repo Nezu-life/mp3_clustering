@@ -1,6 +1,6 @@
-<img src="logo.png" alt="Logo" width="100" height="100">
-
 # MP3 Clustering
+
+<img src="logo.png" alt="Logo" width="300" height="300">
 
 First of all, thanks for your interest in using our programs.
 
