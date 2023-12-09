@@ -17,6 +17,8 @@ Second, it runs the KMeans algorithm using different values of K. This helps ide
 
 Third, after identifying the best number of clusters, you run the KMeans algorithm, and the last script will create one folder for each cluster, and will move the MP3 files inside each new folder.
 
+Here is a video explaining everything: https://www.youtube.com/watch?v=MD_LYJImHeY
+
 ## How to run it
 
 1. Clone the repo
